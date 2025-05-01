@@ -1,1 +1,1 @@
-# Functions-and-Lists
+# Midterm Python Exercises
